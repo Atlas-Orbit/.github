@@ -1,4 +1,4 @@
-# Welcome to Atlas-Orbit 🛰️
+# Welcome to Atlas & Orbit, an Interlink Company. 🛰️
 
 Atlas-Orbit is building the next generation of open operations infrastructure, focusing on seamless integration, intelligent coordination, and living documentation for distributed systems.
 
@@ -22,14 +22,14 @@ Atlas-Orbit is building the next generation of open operations infrastructure, f
 
 Atlas-Orbit focuses on:
 
-- 🔗 **Interoperability** — Seamless connections between tools and platforms
-- 📚 **Documentation** — Living docs that stay in sync with code and systems
-- 🤖 **Intelligence** — Agent-agnostic coordination and automation
-- 🏗️ **Infrastructure** — Open, governed, and extensible systems
+-  **Interoperability** — Seamless connections between tools and platforms
+-  **Documentation** — Living docs that stay in sync with code and systems
+-  **Intelligence** — Agent-agnostic coordination and automation
+-  **Infrastructure** — Open, governed, and extensible systems
 
 ## Getting Started
 
-All repositories in Atlas-Orbit are currently private. To get involved:
+All repositories in Github.com/Atlas-Orbit are currently private. To get involved:
 
 1. Check out the [Orbit documentation](https://github.com/Atlas-Orbit/orbit) for project context and architecture
 2. Review our [repository template](https://github.com/Atlas-Orbit/repo-template) for our standards
